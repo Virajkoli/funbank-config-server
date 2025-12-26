@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to FunBank accounts related local API"
   contactDetails:
     name: "Viraj Koli"
-    email: "viraj@gmail.com"
+    email: "{cipher}9fb830dda62fcb7cb8c50aa0f91f69702319145414d33c35935e118aac5d5cf90cbe10c156f976e0443ecfcaf8a764fb"
   onCallSupport:
     - (+91)8669396555
     - (+91)7775809444
