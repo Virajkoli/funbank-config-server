@@ -2,10 +2,10 @@ build:
   version: 3.0
 
 cards:
-  message: "Welcome to FunBank cards ms related local API"
+  message: "Welcome to FunBank cards related local API"
   contactDetails:
     name: "Viraj Koli"
-    email: "viraj@gmail.com"
+    email: "koliviraj555@gmail.com"
   onCallSupport:
     - (+91)8669396555
     - (+91)7775809444
