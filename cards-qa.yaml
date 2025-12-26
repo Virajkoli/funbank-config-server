@@ -1,0 +1,11 @@
+build:
+    version: 2.0
+
+cards:
+  message: "Welcome to FunBank cards related QA API"
+  contactDetails:
+    name: "Viraj Koli QA"
+    email: "viraj@gmail.com"
+  onCallSupport:
+    - (+91)8669396555
+    - (+91)7775809444
