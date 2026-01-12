@@ -2,7 +2,7 @@ build:
     version: 1.0
 
 loans:
-  message: "Welcome to FunBank loans related Prod API"
+  message: "Welcome to FunBank loans related webhook API"
   contactDetails:
     name: "Viraj Koli Prod"
     email: "viraj@gmail.com"
